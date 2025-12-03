@@ -1,6 +1,6 @@
 <div align="center">
 
-# asdf-ionosctl [![Build](https://github.com/smoebody/asdf-ionosctl/actions/workflows/build.yml/badge.svg)](https://github.com/smoebody/asdf-ionosctl/actions/workflows/build.yml) [![Lint](https://github.com/smoebody/asdf-ionosctl/actions/workflows/lint.yml/badge.svg)](https://github.com/smoebody/asdf-ionosctl/actions/workflows/lint.yml)
+# asdf-ionosctl [![Build](https://github.com/b1-systems/asdf-ionosctl/actions/workflows/build.yml/badge.svg)](https://github.com/b1-systems/asdf-ionosctl/actions/workflows/build.yml) [![Lint](https://github.com/b1-systems/asdf-ionosctl/actions/workflows/lint.yml/badge.svg)](https://github.com/b1-systems/asdf-ionosctl/actions/workflows/lint.yml)
 
 [ionosctl](https://docs.ionos.com/cli-ionosctl) plugin for the [asdf version manager](https://asdf-vm.com).
 
@@ -8,6 +8,8 @@
 
 # Contents
 
+- [asdf-ionosctl  ](#asdf-ionosctl--)
+- [Contents](#contents)
 - [Dependencies](#dependencies)
 - [Install](#install)
 - [Contributing](#contributing)
@@ -15,10 +17,7 @@
 
 # Dependencies
 
-**TODO: adapt this section**
-
 - `bash`, `curl`, `tar`, and [POSIX utilities](https://pubs.opengroup.org/onlinepubs/9699919799/idx/utilities.html).
-- `SOME_ENV_VAR`: set this environment variable in your shell config to load the correct version of tool x.
 
 # Install
 
@@ -27,7 +26,7 @@ Plugin:
 ```shell
 asdf plugin add ionosctl
 # or
-asdf plugin add ionosctl https://github.com/smoebody/asdf-ionosctl.git
+asdf plugin add ionosctl https://github.com/b1-systems/asdf-ionosctl
 ```
 
 ionosctl:
@@ -53,8 +52,8 @@ install & manage versions.
 
 Contributions of any kind welcome! See the [contributing guide](contributing.md).
 
-[Thanks goes to these contributors](https://github.com/smoebody/asdf-ionosctl/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/b1-systems/asdf-ionosctl/graphs/contributors)!
 
 # License
 
-See [LICENSE](LICENSE) © [Ulf Seltmann](https://github.com/smoebody/)
+See [LICENSE](LICENSE) © [B1 Systems GmbH](https://github.com/b1-systems/)
